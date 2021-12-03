@@ -27,6 +27,7 @@ To further refine our understanding we will investigate the following questions:
     1) predict salary from other factors
     2) predict experience level from salary
     3) predict company from salary info
+    7.) How many years of experience is a masters worth?
     see how we perform on prediction when we drop some of these factors
 
 
