@@ -28,6 +28,7 @@ To further refine our understanding we will investigate the following questions:
     2) predict experience level from salary
     3) predict company from salary info
     see how we perform on prediction when we drop some of these factors
+    4.) When we control for experience, do people with higher education make more money?
 
 
 ## Background on Data
